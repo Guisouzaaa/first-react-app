@@ -1,2 +1,2 @@
 # first-react-app
-Simple React.js todo list
+Simple ReactJS todo list
